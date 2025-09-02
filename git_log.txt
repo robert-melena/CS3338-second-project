@@ -1,0 +1,45 @@
+commit 24445cd06eb4965d26873f4064096672166b6e59
+Merge: 7e7471c d5ed14c
+Author: robert-melena <99871728+robert-melena@users.noreply.github.com>
+Date:   Mon Sep 1 23:00:48 2025 -0700
+
+    added ffavorite food
+
+commit d5ed14ceeb1837c5a5146b999a26bf47cb4f566f
+Author: robert-melena <99871728+robert-melena@users.noreply.github.com>
+Date:   Mon Sep 1 22:50:50 2025 -0700
+
+    Added favroite game
+
+commit 7e7471c679d647efc3888a88a70c070ec648570c
+Author: robert-melena <99871728+robert-melena@users.noreply.github.com>
+Date:   Mon Sep 1 22:49:43 2025 -0700
+
+    Added div with my favorite food
+
+commit f511539511030495bb6a46e6c94d1f6964fa0f5a
+Author: robert-melena <99871728+robert-melena@users.noreply.github.com>
+Date:   Mon Sep 1 22:47:17 2025 -0700
+
+    Added README.md file to describe repo
+
+commit cf7d6dbc0e546b6ba72eb41daecfaafbf17aec7d
+Merge: 1d2bfc0 80b20ca
+Author: Robert Melena <99871728+robert-melena@users.noreply.github.com>
+Date:   Mon Sep 1 22:31:19 2025 -0700
+
+    Merge pull request #1 from robert-melena/info-fill
+    
+    Filled in blanks
+
+commit 80b20cada1ef9caa10161516e1ff5ee1437fec85
+Author: robert-melena <99871728+robert-melena@users.noreply.github.com>
+Date:   Mon Sep 1 22:26:00 2025 -0700
+
+    Filled in blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
